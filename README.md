@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Oreki** discord bot
 - 🌱 I’m currently learning Javascript and C++
 - 🤔 I’m looking for help with my friend
-- ⚡ Fun fact: aing pernah makan nasi + pisgor wkwkw
+- ⚡ Fun fact: idk what to put here
 
 
 
