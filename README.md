@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Javascript and C++
 - 🤔 I’m looking for help with my friend
 - ⚡ Fun fact: aing pernah makan nasi + pisgor wkwkw
-- 
 
 
 
