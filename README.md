@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Oreki](https://top.gg/bot/774995358781931526) discord bot
-- 🌱 I’m currently learning Javascript, HTML, CSS, C#, and C++
+- 🌱 I’m currently learning Javascript, HTML, CSS, C++, and Java
 - 🤔 I’m looking for help with my friend
 - ⚡ Fun fact: idk what to put here
 
